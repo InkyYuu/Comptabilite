@@ -1,3 +1,4 @@
+#Balance pour le cours de gestion de projets de But Informatique 1eme année
 type = input("Souhaitez vous une balance :\n1 - Une balance classique\n2 - Une balance par sommes et par soldes\nVotre choix : ")
 
 if (type == '1') :
