@@ -1,3 +1,4 @@
+#Calcul amortissement linéraire pour le cours de gestion de projets de But Informatique 1eme année
 date = input("Entrez votre date sous forme : jj mm ")
 prix = int(input("Entrez votre prix : "))
 tva = int(input("Entrez le montant de la TVA : "))
